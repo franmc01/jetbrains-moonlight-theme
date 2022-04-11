@@ -2,6 +2,10 @@
 # Compiled class file
 *.class
 
+# Dist / Artifacts
+build/
+.gradle/
+
 # Log file
 *.log
 
