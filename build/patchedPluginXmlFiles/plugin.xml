@@ -1,0 +1,20 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="213.7172" until-build="213.*" />
+  <id>org.franciscode.moonlight-jetbrains-theme</id>
+  <name>MoonLight Dark Theme</name>
+  <vendor email="francmarinc@gmail.com" url="https://github.com/francmarin98">FrancisCode</vendor>
+  <description><![CDATA[A friendly dark theme for those long coding sessions.<br>
+    <em>Would you like to collaborate, do not hesitate to do it!!</em>]]></description>
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+</idea-plugin>
