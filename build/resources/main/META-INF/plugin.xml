@@ -1,11 +1,11 @@
 <idea-plugin>
-  <version>1.0-SNAPSHOT</version>
-  <change-notes>Add change notes here.&lt;br&gt;
-      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <version>v1.0</version>
+  <change-notes>This is the first version, please leave us your comment. &lt;br&gt;
+      &lt;em&gt;Includes the base theme inspired by Visual Studio Code Moonlight Theme&lt;/em&gt;</change-notes>
   <idea-version since-build="213.7172" until-build="213.*" />
   <id>org.franciscode.moonlight-jetbrains-theme</id>
-  <name>MoonLight Dark Theme</name>
-  <vendor email="francmarinc@gmail.com" url="https://github.com/francmarin98">FrancisCode</vendor>
+  <name>Moonlight Theme</name>
+  <vendor email="francmarinc@gmail.com" url="https://github.com/francmarin98">Francisco Marín</vendor>
   <description><![CDATA[A friendly dark theme for those long coding sessions.<br>
     <em>Would you like to collaborate, do not hesitate to do it!!</em>]]></description>
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
@@ -13,6 +13,7 @@
   <depends>com.intellij.modules.platform</depends>
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
+    <themeProvider id="francisco-moonlight-theme" path="/theme/moonlight-theme.json" />
   </extensions>
   <actions>
     <!-- Add your actions here -->

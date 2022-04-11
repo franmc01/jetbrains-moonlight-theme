@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>org.franciscode.moonlight-jetbrains-theme</id>
-    <name>MoonLight Dark Theme</name>
-    <vendor email="francmarinc@gmail.com" url="https://github.com/francmarin98">FrancisCode</vendor>
+    <name>Moonlight Theme</name>
+    <vendor email="francmarinc@gmail.com" url="https://github.com/francmarin98">Francisco Marín</vendor>
 
     <description><![CDATA[
     A friendly dark theme for those long coding sessions.<br>
