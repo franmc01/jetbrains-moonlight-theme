@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
+  "contributors": [
+    {
+      "login": "francmarin98",
+      "name": "Francisco Marin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50973629?v=4",
+      "profile": "https://github.com/francmarin98",
+      "contributions": [
+        "code",
+        "question",
+        "doc",
+        "ideas",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "jetbrains-moonlight-theme",
+  "projectOwner": "francmarin98",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

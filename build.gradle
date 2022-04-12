@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.franciscode'
-version 'v1.0'
+version 'v0.1'
 
 repositories {
     mavenCentral()
@@ -17,12 +17,19 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = '2021.3.3'
+    version = '2022.1'
 }
 patchPluginXml {
     changeNotes = """
       This is the first version, please leave us your comment. <br>
-      <em>Includes the base theme inspired by Visual Studio Code Moonlight Theme</em>"""
+      <em>
+       <b>
+       Feature highlights:
+       </b>
+       <br />
+        - It is configured by default to highlight the labels of the components created either in Vue, React and Angular. 
+        <br />
+      </em>"""
 }
 test {
     useJUnitPlatform()

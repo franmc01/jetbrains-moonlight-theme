@@ -17,9 +17,9 @@
     "foregroundAlt3": "#3c8390",
     "foregroundAlt4": "#fab28e",
 
-    "background1": "#212539",
-    "background2": "#212539",
-    "backgroundAlt": "#212539",
+    "background1": "#212337",
+    "background2": "#212337",
+    "backgroundAlt": "#212337",
 
     "shadow": "#16161c",
     "accent": "#2e303e",
@@ -170,7 +170,6 @@
     "DefaultTabs.inactiveUnderlineColor": "custom2",
 
     "DragAndDrop.areaBackground": "#2e303e60",
-    "DragAndDrop.areaBorderColor": "selectionBackground",
 
     "Editor.background": "backgroundAlt",
     "Editor.shortcutForeground": "custom1",
@@ -334,10 +333,6 @@
     "TextPane.selectionBackground": "#6C6F93A0",
 
     "EditorPane.selectionBackground": "#6C6F93A0",
-    "_comment.FormattedTextField.selectionBackground": "test1",
-    "_comment.TextPane.selectionBackground": "test2",
-    "_comment.TextArea.background": "test1",
-    "_comment.FormattedTextField.background": "test1",
 
     "TitlePane.inactiveInfoForeground": "foregroundInfo",
 
@@ -348,7 +343,6 @@
     "ToggleButton.onForeground": "foregroundBright1",
 
     "ToolTip.background": "backgroundAlt",
-    "ToolTip.backgroundInactive": "backgroundAlt",
     "ToolTip.borderColor": "separatorColor",
     "ToolTip.foreground": "foregroundMain",
 
