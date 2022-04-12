@@ -5,6 +5,16 @@
 
     <description><![CDATA[
     A friendly dark theme for those long coding sessions.<br>
+ <b>
+        Inspirations and colors picked from:  </b> <a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight">Moonlight</a>
+    <br />
+    <br />
+    To install:
+    <ol>
+        <li>Go to <b>Settings | Plugins</b>, find the theme plugin and install it</li>
+        <li>Restart the IDE</li>
+        <li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select <b>Moonlight Theme</b> in the theme dropdown</li>
+    </ol>
     ]]></description>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html

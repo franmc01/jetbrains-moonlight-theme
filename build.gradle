@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.franciscode'
-version 'v0.1'
+version 'v0.1.0'
 
 repositories {
     mavenCentral()
@@ -29,7 +29,9 @@ patchPluginXml {
        <br />
         - It is configured by default to highlight the labels of the components created either in Vue, React and Angular. 
         <br />
-      </em>"""
+        - Compatibility with Jetbrains IDE version 2022.1 and below
+      </em>       
+      """
 }
 test {
     useJUnitPlatform()
