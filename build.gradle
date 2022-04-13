@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.franciscode'
-version 'v0.1.0'
+version '1.0'
 
 repositories {
     mavenCentral()
