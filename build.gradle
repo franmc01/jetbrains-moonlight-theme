@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.franciscode'
-version '1.0'
+version '1.1'
 
 repositories {
     mavenCentral()
@@ -26,6 +26,15 @@ patchPluginXml {
        <b>
        Feature highlights:
        </b>
+               <br />
+       <p>v1.1</p>
+        <br />
+        - New version compatibility range, now the plugin is compatible with all IDEs from version 2020.3 to the current version. 
+        <br />
+        - Color correction for identification lines, fold lines and method separator line. 
+        <br />
+                <br />
+       <p>v1.0</p>
        <br />
         - It is configured by default to highlight the labels of the components created either in Vue, React and Angular. 
         <br />

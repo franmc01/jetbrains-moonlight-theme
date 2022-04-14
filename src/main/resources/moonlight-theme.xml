@@ -49,18 +49,18 @@
     <option name="FILESTATUS_changelistConflict" value="ff5555" />
     <option name="FILESTATUS_modifiedOutside" value="40dbfc" />
     <option name="GUTTER_BACKGROUND" value="212337" />
-    <option name="INDENT_GUIDE" value="2e303e90" />
+    <option name="INDENT_GUIDE" value="2e303e" />
     <option name="INFORMATION_HINT" value="232530" />
     <option name="LINE_NUMBERS_COLOR" value="373d48" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616c7f" />
     <option name="LOOKUP_COLOR" value="2e303e" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="3d5f80" />
     <option name="NOTIFICATION_BACKGROUND" value="2e303e" />
     <option name="PROMOTION_PANE" value="232530" />
     <option name="QUESTION_HINT" value="232530" />
     <option name="RIGHT_MARGIN_COLOR" value="2e303e80" />
     <option name="SELECTED_INDENT_GUIDE" value="d5d8da2a" />
-    <option name="SELECTED_TEARLINE_COLOR" value="363a49" />
     <option name="SELECTION_BACKGROUND" value="2f3341" />
     <option name="SEPARATOR_ABOVE_COLOR" value="232530" />
     <option name="SEPARATOR_BELOW_COLOR" value="232530" />
@@ -88,7 +88,7 @@
     <option name="ScrollBar.thumbColor" value="6c6f9325" />
     <option name="TAB_UNDERLINE" value="54718c" />
     <option name="TAB_UNDERLINE_INACTIVE" value="2a3946" />
-    <option name="TEARLINE_COLOR" value="272a35" />
+    <option name="TEARLINE_COLOR" value="2e303e" />
     <option name="TOOLTIP" value="232530" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="ff79c6" />
@@ -97,6 +97,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="d5d8da1a" />
     <option name="WHITESPACES" value="6c6f9390" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="6c6f93" />
+    <option name="SELECTED_TEARLINE_COLOR" value="4d515f" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
