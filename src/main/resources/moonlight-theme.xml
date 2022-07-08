@@ -1,19 +1,19 @@
 <scheme name="Moonlight Theme" version="142" parent_scheme="Darcula">
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono Medium" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="50805c" />
@@ -61,6 +61,7 @@
     <option name="QUESTION_HINT" value="232530" />
     <option name="RIGHT_MARGIN_COLOR" value="2e303e80" />
     <option name="SELECTED_INDENT_GUIDE" value="d5d8da2a" />
+    <option name="SELECTED_TEARLINE_COLOR" value="4d515f" />
     <option name="SELECTION_BACKGROUND" value="2f3341" />
     <option name="SEPARATOR_ABOVE_COLOR" value="232530" />
     <option name="SEPARATOR_BELOW_COLOR" value="232530" />
@@ -86,8 +87,8 @@
     <option name="ScrollBar.hoverThumbColor" value="6c6f9330" />
     <option name="ScrollBar.thumbBorderColor" value="6c6f9310" />
     <option name="ScrollBar.thumbColor" value="6c6f9325" />
-    <option name="TAB_UNDERLINE" value="54718c" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="2a3946" />
+    <option name="TAB_UNDERLINE" value="74a0f1" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="212337" />
     <option name="TEARLINE_COLOR" value="2e303e" />
     <option name="TOOLTIP" value="232530" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
@@ -97,7 +98,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="d5d8da1a" />
     <option name="WHITESPACES" value="6c6f9390" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="6c6f93" />
-    <option name="SELECTED_TEARLINE_COLOR" value="4d515f" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -424,6 +424,17 @@
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="7fdaff" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="9d9470" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="9d9470" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
@@ -3720,6 +3731,8 @@
     </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>

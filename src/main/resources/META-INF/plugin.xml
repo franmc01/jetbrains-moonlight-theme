@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>org.franciscode.moonlight-jetbrains-theme</id>
-    <name>Moonlight Theme</name>
+    <name>Moonlight Dark Theme</name>
     <vendor email="francmarinc@gmail.com" url="https://github.com/francmarin98">Francisco Marín</vendor>
 
     <description><![CDATA[
@@ -17,12 +17,6 @@
     </ol>
     ]]></description>
 
-    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="203.0"/>
-
-    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
-         on how to target different products -->
-    <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
