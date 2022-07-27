@@ -7,11 +7,11 @@
 
 - React Example
 
-![img_2.png](screenshots/react-example.png)
+![react-demo.png](/screenshots/react-demo.png)
 
 - Vue Example
 
-![img_1.png](screenshots/vue-example.png)
+![vue-demo.png](/screenshots/vue-demo.png)
 
 - Angular Example
 

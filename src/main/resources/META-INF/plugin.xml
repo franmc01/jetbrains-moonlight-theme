@@ -20,7 +20,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="francisco-moonlight-theme" path="/moonlight-theme.theme.json" />
+        <themeProvider id="francisco-moonlight-theme" path="/moonlight-theme.theme.json"/>
     </extensions>
 
     <actions>

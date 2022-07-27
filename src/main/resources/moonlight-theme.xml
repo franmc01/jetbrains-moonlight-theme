@@ -1,19 +1,11 @@
 <scheme name="Moonlight Theme" version="142" parent_scheme="Darcula">
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono Medium" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="50805c" />
@@ -62,7 +54,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e303e80" />
     <option name="SELECTED_INDENT_GUIDE" value="d5d8da2a" />
     <option name="SELECTED_TEARLINE_COLOR" value="4d515f" />
-    <option name="SELECTION_BACKGROUND" value="2f3341" />
+    <option name="SELECTION_BACKGROUND" value="474747" />
     <option name="SEPARATOR_ABOVE_COLOR" value="232530" />
     <option name="SEPARATOR_BELOW_COLOR" value="232530" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="6c6f931a" />
@@ -968,7 +960,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="474747" />
+        <option name="BACKGROUND" value="2F3341" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -3732,7 +3724,9 @@
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
 </scheme>
