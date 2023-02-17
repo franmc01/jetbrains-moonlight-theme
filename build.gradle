@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.franciscode'
-version '1.2'
+version '1.3'
 
 repositories {
     mavenCentral()
@@ -17,13 +17,13 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = '2022.2'
+    version = '2022.3'
 }
 patchPluginXml {
     changeNotes = """
       Changeload. <br>
       <em>
-        Compatibility with the new 2022.2 IDEs and basic support for the new Jetbrains UI
+        Compatibility with the new 2022.3 IDEs and basic support for the new Jetbrains UI
         <br />
         <br />
         Color correction when text is selected and when it is highlighted
