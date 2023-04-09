@@ -64,7 +64,7 @@
   "ui": {
     "*": {
       "arc": "7",
-      "foreground": "#7F9AB3",
+      "foreground": "foregroundBright1",
       "background": "background1",
       "infoForeground": "foregroundInfo",
       "selectionForeground": "foregroundBright1",
@@ -409,7 +409,7 @@
     "ColorPalette": {
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
-      "Actions.Grey": "#7F9AB3",
+      "Actions.Grey": "#ffffff",
       "Actions.GreyInline.Dark": "#5F81A0",
       "Actions.GreyInline": "#5F81A0",
       "Actions.Red": "#ff5554",
