@@ -21,13 +21,37 @@ intellij {
 }
 patchPluginXml {
     changeNotes = """
-      Changeload. <br>
-      <em>
-        Compatibility with the new 2023.2 IDEs and basic support for the new Jetbrains UI
-        <br />
-        <br />
-        Color correction when text is selected and when it is highlighted
-      </em>       
+<h1>Changelog for Moonlight JetBrains Theme</h1>
+
+<p><strong>📅 Release Date:</strong> October 5, 2023</p>
+
+<h2>🚀 What’s New</h2>
+
+<ul>
+    <li><strong>🔄 Full Compatibility:</strong> Exciting news! Moonlight JetBrains Theme now ensures full compatibility with the newest and upcoming versions of IntelliJ IDEA!</li>
+    <li><strong>🌟 Enhanced Visuals:</strong> Experience an even more engaging coding environment with refined color schemes and polished UI elements.</li>
+</ul>
+
+<h2>💌 A Note from Me to You</h2>
+
+<p>Hello, Moonlight Enthusiasts!</p>
+
+<p>I apologize for any pause in updates and am delighted to be back, aiming to enhance your coding sessions with enriched visual experiences in the Moonlight JetBrains Theme. Your ongoing support and invaluable feedback have been a guiding light, and for that, I am truly grateful.</p>
+
+<p>I'm excited to introduce a "Sponsor" button on GitHub! 🎉 If you’d like to further support this journey, please visit the <a href="https://github.com/frankops11" target="_blank">GitHub Page</a> and explore the Sponsor section. Every contribution lights the path towards continuous enhancement of the Moonlight JetBrains Theme.</p>
+
+<h2>🚧 On the Horizon</h2>
+
+<p>The adventure doesn’t stop here! I am embarking on developing a theme for JetBrains Fleet. If this resonates with you and you wish to support or collaborate on this future venture, your warmth, feedback, and participation will be immensely appreciated. I am inspired by the exceptional work Anthony Fu has done with the Vitesse Theme and aspire to bring a similar aesthetic and functionality to the JetBrains Fleet interface. Together, let’s navigate this exciting upcoming journey.</p>
+
+<p>With sincere appreciation,<br>
+Francisco Marin</p>
+
+<h2>🌟 Closing Thoughts</h2>
+
+<p>Saludos! I hope you find joy and value in these updates to the Moonlight JetBrains Theme. Your support has been phenomenal—please consider leaving a review and sharing your thoughts or suggestions. Your voice is crucial in shaping the future of this theme, and I’m eagerly awaiting your insights!</p>
+
+<p>Apologies once more for the delay in updates. I am committed to keeping the Moonlight JetBrains Theme updated and promise to stay on top of future enhancements and refinements.</p>
       """
 }
 test {
