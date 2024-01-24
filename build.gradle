@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.franciscode'
-version '1.5'
+version '1.6'
 
 repositories {
     mavenCentral()
@@ -17,13 +17,13 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = '2023.2'
+    version = '2023.3'
 }
 patchPluginXml {
     changeNotes = """
 <h1>Changelog for Moonlight JetBrains Theme</h1>
 
-<p><strong>📅 Release Date:</strong> October 5, 2023</p>
+<p><strong>📅 Release Date:</strong> January 24, 2024</p>
 
 <h2>🚀 What’s New</h2>
 
