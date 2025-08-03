@@ -1,4 +1,4 @@
-<scheme name="Moonlight Theme" version="142" parent_scheme="Darcula">
+<scheme name="Moonlight Theme" parent_scheme="Darcula" version="1">
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="16" />
@@ -3726,7 +3726,7 @@
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_LIGATURES" value="false" />
+  <option name="CONSOLE_LIGATURES" value="false" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
 </scheme>

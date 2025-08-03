@@ -1,33 +1,34 @@
 <idea-plugin>
     <id>org.franciscode.moonlight-jetbrains-theme</id>
     <name>Moonlight Dark Theme</name>
-    <vendor email="francmarinc@gmail.com" url="https://github.com/francmarin98">Francisco Marín</vendor>
+    <vendor email="francmarinc@gmail.com" url="https://github.com/franmc01">Francisco Marín</vendor>
 
     <description><![CDATA[
-    A friendly dark theme for those long coding sessions.<br>
- <b>
-        Inspirations and colors picked from:  </b> <a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight">Moonlight</a>
-    <br />
-    <br />
-    To install:
+    <p><strong>Moonlight Dark Theme</strong> is a warm and elegant dark theme designed to reduce eye strain and elevate your coding experience during those deep-focus sessions.</p>
+
+    <p>🎨 <b>Inspired by:</b> the gorgeous <a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight" target="_blank">Moonlight Theme</a> for VS Code by Atomiks. Carefully adapted for JetBrains IDEs with love, precision, and some original tweaks.</p>
+
+    <p>✨ <b>What's new in v1.11:</b> Colors are better tuned, tree spacing is more comfortable, panels are cleaner, and everything feels a bit more... Moonlit.</p>
+
+    <p>🌌 <i>Bonus!</i> If you enjoy this theme, check out my latest creation: <a href="https://plugins.jetbrains.com/plugin/28084-vitesse-dark-theme" target="_blank"><b>Vitesse Dark Theme</b></a> — a high-contrast, futuristic look inspired by Anthony Fu's Vitesse palette, now reimagined for JetBrains IDEs.</p>
+
+    <br/>
+
+    <b>Installation:</b>
     <ol>
-        <li>Go to <b>Settings | Plugins</b>, find the theme plugin and install it</li>
-        <li>Restart the IDE</li>
-        <li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select <b>Moonlight Theme</b> in the theme dropdown</li>
+        <li>Go to <b>Settings | Plugins</b>, search for <i>Moonlight Dark Theme</i> and install it.</li>
+        <li>Restart your IDE.</li>
+        <li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select <b>Moonlight Dark Theme</b> from the theme dropdown.</li>
     </ol>
+
+    <p>🌙 Happy coding,<br>Francisco</p>
     ]]></description>
 
-    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
-     on how to target different products -->
     <depends>com.intellij.modules.platform</depends>
 
-
     <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
         <themeProvider id="francisco-moonlight-theme" path="/moonlight-theme.theme.json"/>
     </extensions>
 
-    <actions>
-        <!-- Add your actions here -->
-    </actions>
+    <actions />
 </idea-plugin>

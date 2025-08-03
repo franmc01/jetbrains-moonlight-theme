@@ -1,71 +1,103 @@
-# 🌌 Moonlight Theme for JetBrains IDE
+<h1 align="center">🌌 Moonlight Theme for JetBrains</h1>
 
 <p align="center">
-    <em>A friendly dark theme for those long coding sessions, inspired and colors picked from the serene Moonlight.</em>
+  <em>A serene dark theme for your longest and most creative coding nights. <br>
+  Inspired by the tranquil tones of <a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight">Moonlight for VS Code</a>, now crafted natively for JetBrains IDEs.</em>
 </p>
 
-## 📸 Screenshots
+<p align="center">
+  <a href="https://plugins.jetbrains.com/plugin/18943-moonlight-dark-theme">
+    <img src="https://img.shields.io/jetbrains/plugin/v/18943-moonlight-dark-theme?label=JetBrains%20Marketplace&color=0A0A0A&style=for-the-badge">
+  </a>
+  <a href="https://github.com/franmc01/jetbrains-moonlight-theme/stargazers">
+    <img src="https://img.shields.io/github/stars/franmc01/jetbrains-moonlight-theme?style=for-the-badge&color=blueviolet">
+  </a>
+  <a href="https://github.com/franmc01/jetbrains-moonlight-theme/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/franmc01/jetbrains-moonlight-theme?style=for-the-badge&color=lightgrey">
+  </a>
+</p>
 
-Visualize and immerse yourself in the cool, dark tranquility of the Moonlight Theme with different frameworks:
+---
 
-### React Example
-![React Example with Moonlight Theme](screenshots%2Freact-demo.png)
+## 📸 Preview Gallery
 
-### Vue Example
-![Vue Example with Moonlight Theme](screenshots%2Fvue-demo.png)
+<p align="center">Glance at Moonlight in your favorite frameworks:</p>
 
-### Angular Example
-![Angular Example with Moonlight Theme](screenshots%2Fangular-example.png)
+<p align="center">
+  <img src="screenshots/react-demo.png" width="31%" alt="React Screenshot" />
+  <img src="screenshots/vue-demo.png" width="31%" alt="Vue Screenshot" />
+  <img src="screenshots/angular-example.png" width="31%" alt="Angular Screenshot" />
+</p>
+
+---
 
 ## ✨ Features
 
-- **Dark and Friendly:** Crafted for ease on your eyes, ensuring comfort throughout long coding sessions.
-- **Framework Agnostic:** Beautifully adapts whether you’re coding in React, Vue, Angular, or others.
-- **Enhanced Readability:** Deliberately chosen colors and contrasts to ensure your code is clear and easy to read.
-- **Harmonious Design:** Consistently delightful and aesthetic design across all languages and frameworks.
+✅ **Modern & Minimal** – Designed for comfort, clarity and elegance.  
+🎯 **Focus-Friendly** – Soothing colors that reduce eye strain and increase productivity.  
+⚙️ **Framework Agnostic** – Whether it’s React, Angular, Vue, Python or Rust, Moonlight adapts.  
+🎨 **Harmonized UI** – Panels, trees, tabs and popups all styled with consistency.
 
-## 🚀 Installation
+---
 
-Integrate the Moonlight Theme into your JetBrains IDE with a few simple steps:
+## 🚀 How to Install
 
-1. Navigate to `Settings | Plugins`.
-2. Search for the Moonlight Theme plugin and install it.
-3. Restart the IDE for the changes to take effect.
-4. Navigate to `Settings | Appearance & Behavior | Appearance`.
-5. Select `Moonlight Theme` from the theme dropdown menu.
+1. Open **JetBrains IDE** → `Settings | Plugins`
+2. Search for `Moonlight Theme` and click **Install**
+3. Restart your IDE
+4. Go to `Settings | Appearance & Behavior | Appearance`
+5. Select **Moonlight Theme** from the dropdown
 
-Voila! Let the serene moonlight guide your code through the night.
+> 🌓 You're ready to code in Moonlight.
 
-## 💖 Support & Contributions
+---
 
-Your appreciation for Moonlight means the world! Consider [sponsoring](https://github.com/frankops11) or contributing to keep the project vibrant.
+## 🆕 What’s New in v1.11 (Q3 2025)
 
-### How to Contribute
+- 🎨 Improved contrast and accent adjustments
+- 🗂️ Increased tree view spacing for cleaner navigation
+- 🧩 Panel and background fixes for smoother experience
+- ✨ Color refinements to better match the original inspiration
+- 🧪 Compatibility: Fully tested with IntelliJ 2025.1 and newer
 
-Moonlight is not just a theme; it’s a continually growing project, and your involvement is heartily welcomed!
+---
 
-🚀 **Join & Grow:** I’m open to collaborators who can help the Moonlight Theme reach new heights. Let's improve it together, make it even more versatile and delightful for all developers out there.
+## ⚡ Bonus: Try My New Theme — Vitesse Dark
 
-🎨 **Expand the Universe:** Inspired by the original, let’s craft additional versions, explore new color schemes, and bring Moonlight into different coding environments.
+<p align="center">
+  <img src="./screenshots/vitesse-demo.png" alt="Vitesse Dark Theme" width="70%"/>
+</p>
 
-🆕 **New Horizons:** Why stop here? With the collective creativity and skills of this wonderful community, we can branch out to create even more themes, enhancing various IDEs and editors with the spirit of Moonlight.
+Love speed, contrast, and bold design?  
+Check out my brand new theme inspired by Vitesse:
 
-🔄 **Improvements & Ideas:** Your ideas and feedback are not just welcomed, but crucial in refining and expanding the Moonlight Theme. Whether it's a new color scheme or a feature request, your insights pave the way for future developments.
+👉 **[Vitesse Dark Theme – Now on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/28084-vitesse-dark-theme)**
 
-🔗 To start contributing, check out the [issues tab](https://github.com/frankops11/jetbrains-moonlight-theme/issues) for current tasks, enhancements, and bugs, or propose new ideas to make Moonlight shine even brighter.
+It’s fast. It’s clean. It hits different. 🏎️
 
-Together, let’s illuminate the coding universe with the serene glow of Moonlight. 🌕
+---
 
-## 📬 Stay Updated
+## 💖 Support & Contribute
 
-Keep your coding environment fresh and subscribe to updates! Detailed release notes will be available in the Changelog once released.
+If Moonlight helps brighten your dev nights, please consider:
+
+- ⭐ Star this repo
+- 🗣️ Share feedback or open issues
+- 🤝 [Sponsor on GitHub](https://github.com/franmc01)
+- 🧠 Suggest color tweaks, icons or layout fixes
+
+This project is for the community, by the community. Let's evolve it together.
+
+---
 
 ## 🙏 Acknowledgements
 
-Infinite thanks to sponsors, contributors, and all wonderful beings who’ve shared feedback and love for Moonlight.
+- ✨ [@atomiks](https://github.com/atomiks) for the original Moonlight vision
+- 💼 JetBrains for their amazing developer tools
+- 🤍 Everyone who installs, uses, and shares feedback
 
 ---
 
 <p align="center">
-    <strong>Moonlight Theme</strong> is gracefully crafted with ❤️ by <a href="https://github.com/frankops11">Francisco Marin</a>
+  <strong>Moonlight Theme</strong> is lovingly crafted by <a href="https://github.com/franmc01">Francisco Marín</a> 💻
 </p>
