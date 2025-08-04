@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'com.github.franciscode'
-version = '1.11'
+version = '1.12'
 
 repositories {
     mavenCentral()
@@ -22,11 +22,11 @@ intellij {
 
 patchPluginXml {
     sinceBuild = '241'
-    untilBuild = '251.*'
+    untilBuild = '252.*'
     changeNotes = """
-<h1>🌙 Moonlight JetBrains Theme – Version 1.11</h1>
+<h1>🌙 Moonlight JetBrains Theme – Version 1.12</h1>
 
-<p><strong>📅 Release Date:</strong> August 3, 2025</p>
+<p><strong>📅 Release Date:</strong> August 4, 2025</p>
 
 <h2>🛠️ Improvements & Fixes</h2>
 <ul>

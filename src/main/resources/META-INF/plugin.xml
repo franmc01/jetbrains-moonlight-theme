@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>org.franciscode.moonlight-jetbrains-theme</id>
     <name>Moonlight Dark Theme</name>
-    <vendor email="francmarinc@gmail.com" url="https://github.com/franmc01">Francisco Marín</vendor>
+    <vendor email="francmarinc@gmail.com" url="https://github.com/franmc01">franmc01 - Francisco Marín</vendor>
 
     <description><![CDATA[
     <p><strong>Moonlight Dark Theme</strong> is a warm and elegant dark theme designed to reduce eye strain and elevate your coding experience during those deep-focus sessions.</p>
